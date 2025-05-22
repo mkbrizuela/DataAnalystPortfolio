@@ -18,6 +18,6 @@ The following are the projects and the accompanying skills that I developed so f
 
 **Program:** Spreadsheet (Excel)
 
-**File:** [excel-dashboards](https://github.com/mkbrizuela/DataAnalystPortfolio/commit/34eefebe91c6091b41d4ff1c69de150b6ea88156)
+**File:** [excel-dashboards](https://github.com/mkbrizuela/DataAnalystPortfolio/tree/main/Excel%20Dashboards)
 
 
