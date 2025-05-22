@@ -6,3 +6,4 @@ As a chemical engineer, I am no stranger to the significance of data. I have pre
 
 As I transition into the data industry, I genuinely seek avenues and connections for learning and growth. I am eager to contribute and enhance my skills in entry-level data positions as I integrate myself into the field. 
 
+My CV is in this [file](https://github.com/mkbrizuela/DataAnalystPortfolio/blob/main/MK%20Brizuela%20CV.pdf).
